@@ -85,7 +85,7 @@ h1.title{
 }
 
 .banner_image{
-    background: url("/home/recruit/Desktop/Website2/images/img3.jpg")
+    background: url("images/img3.jpg")
     no-repeat top center;
     background-size: cover;
     width: 100%;
